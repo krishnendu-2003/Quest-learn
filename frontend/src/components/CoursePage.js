@@ -107,10 +107,7 @@ const CoursePage = () => {
 
   return (
     <div className="course-page">
-      <div className="sidebar">
-        <QuestionList questions={questions} onSelect={setSelectedQuestion} />
-        <ProgressBar progress={progress} />
-      </div>
+      
       <div className="main-content">
         <QuestionDetail
           question={selectedQuestion}
