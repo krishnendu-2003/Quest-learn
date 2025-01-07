@@ -1,0 +1,7 @@
+.course-page {
+    display: flex;
+    font-family: Arial, sans-serif;
+    color: #e0e0e0;
+    padding: 20px;
+    background-color: #1a1a1a;
+}
