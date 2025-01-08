@@ -7,7 +7,7 @@ import Achievements from './Achievements';
 import RewardContractABI from '../abi/RewardContract.json';
 import './CoursePage.css';
 
-const contractAddress = '0xD58d45a6E1DB97dBa0994bA96c76Ffa854744512';
+const contractAddress = '0xF12866030166744dC162546aA284F7F77Fd6b799';
 
 const questions = [
   {
